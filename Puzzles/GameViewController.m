@@ -251,17 +251,6 @@
          }];
     }
 }
-
-- (void)viewDidLayoutSubviews {
-    [super viewDidLayoutSubviews];
-    CGRect frame = self.congratulationLabel.frame;
-    CGFloat xCoordinate = (CGRectGetWidth(self.view.frame) - CGRectGetWidth(self.congratulationLabel.frame)) / 2;
-    CGFloat yCoordinate = (CGRectGetHeight(self.view.frame) - CGRectGetHeight(self.congratulationLabel.frame)) / 2;
-    frame.origin.x = xCoordinate;
-    frame.origin.y = yCoordinate;
-    self.congratulationLabel.frame = frame;
-}
-
 - (void)makeBlureImage {
     if (!UIAccessibilityIsReduceTransparencyEnabled()) {
         self.view.backgroundColor = [UIColor clearColor];
