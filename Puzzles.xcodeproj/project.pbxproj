@@ -19,7 +19,7 @@
 		209CEACD1ED4A3B30088F60A /* UIImage+masking.m in Sources */ = {isa = PBXBuildFile; fileRef = 209CEACC1ED4A3B30088F60A /* UIImage+masking.m */; };
 		209CEAD31ED4E8DC0088F60A /* ChooseImageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 209CEAD21ED4E8DC0088F60A /* ChooseImageViewController.m */; };
 		209CEAD61ED59E4E0088F60A /* PatternViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 209CEAD51ED59E4E0088F60A /* PatternViewCell.m */; };
-		209CEAD91ED5D2870088F60A /*  GameViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 209CEAD81ED5D2870088F60A /*  GameViewController.m */; };
+		209CEAD91ED5D2870088F60A /* GameViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 209CEAD81ED5D2870088F60A /* GameViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,7 +46,7 @@
 		209CEAD41ED59E4E0088F60A /* PatternViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PatternViewCell.h; sourceTree = "<group>"; };
 		209CEAD51ED59E4E0088F60A /* PatternViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PatternViewCell.m; sourceTree = "<group>"; };
 		209CEAD71ED5D2870088F60A /* GameViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameViewController.h; sourceTree = "<group>"; };
-		209CEAD81ED5D2870088F60A /*  GameViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = " GameViewController.m"; sourceTree = "<group>"; };
+		209CEAD81ED5D2870088F60A /* GameViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,7 +97,7 @@
 				209CEAD11ED4E8DC0088F60A /* ChooseImageViewController.h */,
 				209CEAD21ED4E8DC0088F60A /* ChooseImageViewController.m */,
 				209CEAD71ED5D2870088F60A /* GameViewController.h */,
-				209CEAD81ED5D2870088F60A /*  GameViewController.m */,
+				209CEAD81ED5D2870088F60A /* GameViewController.m */,
 				2019B5A11ED63DAE00F269BF /* PuzzleCreator.h */,
 				2019B5A21ED63DAE00F269BF /* PuzzleCreator.m */,
 				209CEAB71ED4895A0088F60A /* Main.storyboard */,
@@ -206,7 +206,7 @@
 				2019B5A31ED63DAE00F269BF /* PuzzleCreator.m in Sources */,
 				209CEAD31ED4E8DC0088F60A /* ChooseImageViewController.m in Sources */,
 				209CEAB61ED4895A0088F60A /* PlayGameViewController.m in Sources */,
-				209CEAD91ED5D2870088F60A /*  GameViewController.m in Sources */,
+				209CEAD91ED5D2870088F60A /* GameViewController.m in Sources */,
 				209CEAB31ED4895A0088F60A /* AppDelegate.m in Sources */,
 				209CEACD1ED4A3B30088F60A /* UIImage+masking.m in Sources */,
 				209CEAB01ED4895A0088F60A /* main.m in Sources */,
